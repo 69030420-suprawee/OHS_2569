@@ -47,3 +47,9 @@
 ### **3) ความเป็นมนุษย์และการตรวจจับ AI — 2 คะแนน**
 - ภาษามีความเป็นมนุษย์ มีสำนวนส่วนตัว หรือเล่าเหตุการณ์จริง
 - หากพบโครงสร้างแบบ “AI สำเร็จรูป” → ให้ 0 คะแนนทันทีในส่วนนี้
+
+### คำตอบ
+<img width="820" height="1180" alt="image" src="https://github.com/user-attachments/assets/9681fba4-0c67-4156-b80f-8c9c6afe4741" />
+<img width="820" height="1180" alt="image" src="https://github.com/user-attachments/assets/64edb7e3-a8a5-435b-9c93-aa9b98bc545a" />
+<img width="820" height="1180" alt="image" src="https://github.com/user-attachments/assets/59293f9a-d3c4-409c-a3cb-8dfb75fc3d73" />
+
